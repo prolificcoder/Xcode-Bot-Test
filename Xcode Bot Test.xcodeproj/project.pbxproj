@@ -461,6 +461,7 @@
 				A636FB50177E271C00AF1E75 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A636FB51177E271C00AF1E75 /* Build configuration list for PBXNativeTarget "Xcode Bot TestTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +470,7 @@
 				A636FB53177E271C00AF1E75 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
